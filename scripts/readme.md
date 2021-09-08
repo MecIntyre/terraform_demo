@@ -1,0 +1,1 @@
+Basic shell-scripts for provisionating the enviroment and the deployments
